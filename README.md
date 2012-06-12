@@ -1,7 +1,7 @@
 MIUIBR Rom Downloader
 =====================
 
-A script to download development MIUI roms for the MIUIBrasil project.
+A script to download development MIUI roms for the [MIUIBrasil project](http://miuibrasil.net/).
 
 
 System dependencies
