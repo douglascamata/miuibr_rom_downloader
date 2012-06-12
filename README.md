@@ -27,3 +27,11 @@ Configuration
 
 For additional configuration, like log and download destination, see the constants in ``downloader.py``'s beginning.
 When I have time all those constant will be turned into command line arguments to the script.
+
+
+Running the script
+------------------
+
+You can start the script by just running ``python downloader.py``. In my spare time I'll try to turn this script into an egg,
+put it in PyPI and create an entry point to the main function. This way it's gonna be far more easy to use it.
+
