@@ -1,5 +1,8 @@
 *.py[co]
 
+# Mac tmps
+.DS_Store
+
 # Packages
 *.egg
 *.egg-info
